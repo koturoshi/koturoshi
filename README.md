@@ -1,4 +1,4 @@
-- Github redme yaay!!!
+- Github redme yaa!!!
 
 <!---
 koturoshi/koturoshi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
